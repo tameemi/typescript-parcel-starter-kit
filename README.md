@@ -16,3 +16,5 @@ npm install
 ```
 npm start
 ```
+
+go to [http://localhost:1234](http://localhost:1234) in your browser
