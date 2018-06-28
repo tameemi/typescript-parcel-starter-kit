@@ -1,5 +1,5 @@
 # typescript-parcel-starter-kit
-typescript with praceljs - dev starter kit
+typescript with parceljs - dev starter kit
 
 
 ### Installing
